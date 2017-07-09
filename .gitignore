@@ -9,3 +9,22 @@ _ss_environment.php
 
 # ignore composer vendor folder
 /vendor/
+
+/assets/*
+/node_modules
+/vendor
+/_bower
+/config/environment.php
+/silverstripe-cache
+/tools/phing-metadata
+/framework/
+/siteconfig/
+/reports/
+/cms/
+/themes/site/plugins/
+/customd-cms/
+.buildpath
+.project
+.settings
+.idea
+.DS_Store
