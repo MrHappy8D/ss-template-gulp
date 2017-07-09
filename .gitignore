@@ -28,3 +28,4 @@ _ss_environment.php
 .settings
 .idea
 .DS_Store
+/themes/.DS_Store
